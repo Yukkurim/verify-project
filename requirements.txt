@@ -1,0 +1,5 @@
+# Discord.py 2.x
+discord.py>=2.6.0
+
+# HTTPサーバー用
+aiohttp>=3.8.0
